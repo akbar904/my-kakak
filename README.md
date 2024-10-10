@@ -1,5 +1,9 @@
 # my-kakak
 ## Progress Log
+🔄 [2024-10-11 06:42:51] Deploying to Firebase
+
+⏱️ Previous step took 1.62 seconds
+
 🔄 [2024-10-11 06:42:49] Flutter project initialized and committed to repository
 
 ⏱️ Previous step took 32.87 seconds
